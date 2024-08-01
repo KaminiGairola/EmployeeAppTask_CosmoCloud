@@ -1,16 +1,23 @@
 # cosmo_cloud_assignment
 
-A new Flutter project.
+A new Flutter project given by cosmo cloud which is an Employee App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this employee application, I created a simple CRUD app where users can view a list of employees and add new employees to the system. The app integrates with a MongoDB Cloud database via a custom-built Employee CRUD API, enabling users to create, read, update, and delete employee records. The user interface includes a floating action button for adding new employees, a delete button for removing employees, and an edit button for updating employee information.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots of my application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Home Page 
+![image](https://github.com/user-attachments/assets/68578c10-f900-4e14-a86c-c0e0749e1732)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Add Employee Screen
+![image](https://github.com/user-attachments/assets/625c0e4f-3309-4c0a-a318-21af809cee8b)
+
+## Update Employee Screen
+![image](https://github.com/user-attachments/assets/d74b0188-c91e-4f02-b0d7-73a39331bdcb)
+
+## Delete Employee Screen
+![image](https://github.com/user-attachments/assets/4aa4a4d1-b1dd-4204-a236-4938ccd2e919)
+
+
